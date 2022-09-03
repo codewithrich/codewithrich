@@ -1,6 +1,6 @@
-[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1661737328066/Pe6yM6Tgi.gif)](https://rishavchanda.io)
+![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Richardson.D</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from Chennai</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithrich&label=Profile%20views&color=0e75b6&style=plastic" alt="codewithrich" /> </p>

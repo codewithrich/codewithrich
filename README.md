@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **tempmailid30@gmail.com**
 
+<br>
+
 <hr>
 
 # Programming Languages known

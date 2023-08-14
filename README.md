@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithrich&label=Profile%20views&color=0e75b6&style=plastic" alt="codewithrich" /> </p>
 
-- 🔭 I’m currently working on **web/App developing**
+- 🔭 I’m currently working on **MERN STACK DEVELOPMENT**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **NEXT JS**
 
 - 👯 I’m looking to collaborate on **web development**
 
-- 💬 Ask me about **Android, SQL**
+- 💬 Ask me about **MongoDB, REACT**
 
-- 📫 How to reach me **WHATSAPP: 7358228325**
+- 📫 How to reach me **tempmailid30@gmail.com**
 
 <hr>
 <h2 align="left">Connect with me:</h2>

@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate fullstack developer from Chennai</h3>
 <br>
-<img align="right" alt="Coding" height='300' width="500" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif")
+<img align="right" alt="Coding" height='250' width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithrich&label=Profile%20views&color=0e75b6&style=plastic" alt="codewithrich" /> </p>
 

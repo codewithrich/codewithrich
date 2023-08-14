@@ -5,7 +5,7 @@
 <br>
 <img align="right" alt="Coding" height='300' width="500" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif")
 
-<p align="left"> <img  height='10px' src="https://komarev.com/ghpvc/?username=codewithrich&label=Profile%20views&color=0e75b6&style=plastic" alt="codewithrich" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithrich&label=Profile%20views&color=0e75b6&style=plastic" alt="codewithrich" /> </p>
 <br>
 
 - 🔭 I’m currently working on **MERN STACK DEVELOPMENT**

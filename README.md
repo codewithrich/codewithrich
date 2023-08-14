@@ -17,14 +17,6 @@
 - 📫 How to reach me **tempmailid30@gmail.com**
 
 <hr>
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/richardson-d-124a2322b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/richardson-d-124a2322b" height="30" width="40" /></a>
-<a href="https://fb.com/richardson.d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="richardson.d" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_.richiee.__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.richiee.__/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/djr muziqals" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="djr muziqals" height="30" width="40" /></a>
-</p>
-<hr>
 # Programming Languages known
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,django,java,perl)](https://skillicons.dev)
 <br/>
@@ -39,8 +31,9 @@
 
 # Tools Used
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,linux,xd,figma)](https://skillicons.dev)
-
+<hr>
 <h2>📈Statistics:</h2>
+
 <p align="center"> 
 <img height ='39px' width = "48%" src = "https://github-readme-stats.vercel.app/api?username=codewithrich&show_icons=true&theme=dracula"/>
 <img height ='39px' width = "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrich&layout=compact&theme=dracula" alt="codewithrich"/>

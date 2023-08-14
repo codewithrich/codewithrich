@@ -39,7 +39,7 @@
 <h2>📈Statistics:</h2>
 
 <p align="center"> 
-<img height ='39px' width = "48%" src = "https://github-readme-stats.vercel.app/api?username=codewithrich&show_icons=true&theme=dracula"/>
-<img height ='39px' width = "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrich&layout=compact&theme=dracula" alt="codewithrich"/>
+<img align="center" src = "https://github-readme-stats.vercel.app/api?username=codewithrich&show_icons=true&theme=dracula"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrich&layout=compact&theme=dracula" alt="codewithrich"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithrich&theme=dark" alt="codewithrich" /></p>
 

@@ -30,7 +30,7 @@
 <br/>
 
 # Back-End
-[![My Skills](https://skillicons.dev/icons?i=mysql,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,django,express,moongose)](https://skillicons.dev)
 <br />
 
 # Tools Used

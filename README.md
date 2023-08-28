@@ -26,11 +26,11 @@
 <br/>
 
 # Front-End
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,nextjs,figma)](https://skillicons.dev)
 <br/>
 
 # Back-End
-[![My Skills](https://skillicons.dev/icons?i=mysql,django,express,moongose)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,django,express,mongodb)](https://skillicons.dev)
 <br />
 
 # Tools Used

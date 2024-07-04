@@ -18,9 +18,9 @@
 
 - 📫 How to reach me **tempmailid30@gmail.com**
 
-- ![YouTube Channel Views](https://img.shields.io/youtube/channel/https://www.youtube.com/@djrmuziqals)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCng-oxmMa6tYqriGB5OJrFw)
   
-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/https://www.youtube.com/@djrmuziqals)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCng-oxmMa6tYqriGB5OJrFw)
 
 
 <hr>

@@ -5,9 +5,6 @@
 <br>
 <img align="right" alt="Coding" height='250' width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif")
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithrich&label=Profile%20views&color=0e75b6&style=plastic" alt="codewithrich" /> </p>
-
-
 - 🔭 I’m currently working on **MERN STACK DEVELOPMENT**
 
 - 🌱 I’m currently learning **NEXT JS**
@@ -17,6 +14,8 @@
 - 💬 Ask me about **MongoDB, REACT**
 
 - 📫 How to reach me **richardson12230@gmail.com**
+
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithrich&label=Profile%20views&color=0e75b6&style=plastic" alt="codewithrich" /> </p>
 
 - ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCng-oxmMa6tYqriGB5OJrFw)
   

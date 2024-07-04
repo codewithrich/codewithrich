@@ -28,7 +28,7 @@
 <hr>
 
 # Programming Languages known
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,django,java,perl)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java)](https://skillicons.dev)
 <br/>
 
 # Front-End
@@ -36,11 +36,11 @@
 <br/>
 
 # Back-End
-[![My Skills](https://skillicons.dev/icons?i=mysql,django,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,express,mongodb)](https://skillicons.dev)
 <br />
 
 # Tools Used
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,linux,xd,figma,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,linux,xd,photoshop,figma,postman)](https://skillicons.dev)
 <hr>
 
 ### 💻 Workspace Spec

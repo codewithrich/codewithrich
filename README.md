@@ -38,7 +38,7 @@
 <hr>
 
 ### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/MHP-Victus-ED1C24?style=for-the-badge&logo=hp&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_5000H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+<img height="30" src="https://img.shields.io/badge/HP-Victus-ED1C24?style=for-the-badge&logo=hp&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_5000H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
 
 <h2>📈Statistics:</h2>

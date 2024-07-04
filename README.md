@@ -56,6 +56,6 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithrich&theme=dark" alt="codewithrich"/>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Richardson2003?theme=wtf&font=PT%20Sans%20Caption)](https://leetcode.com/Richardson2003)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Richardson2003?theme=wtf&font=PT%20Sans%20Caption)]
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codewithrich&bg_color=000000&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codewithrich&bg_color=000000&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)]

@@ -28,7 +28,7 @@
 <hr>
 
 # Programming Languages known
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js)](https://skillicons.dev)
 <br/>
 
 # Front-End

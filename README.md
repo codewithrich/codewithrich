@@ -32,15 +32,15 @@
 <br/>
 
 # Front-End
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,nextjs,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,materialui,js,react,nextjs,figma)](https://skillicons.dev)
 <br/>
 
 # Back-End
-[![My Skills](https://skillicons.dev/icons?i=mysql,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,express,mongodb)](https://skillicons.dev)
 <br />
 
 # Tools Used
-[![My Skills](https://skillicons.dev/icons?i=vscode,linux,xd,photoshop,figma,postman,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,docker,blender,linux,xd,ps,netlify,figma,postman,git,github)](https://skillicons.dev)
 <hr>
 
 ### 💻 Workspace Spec

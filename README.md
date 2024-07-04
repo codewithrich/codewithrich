@@ -49,10 +49,9 @@
 
 <h2>📈Statistics:</h2>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrich&layout=compact&theme=dark" alt="codewithrich"/>
 
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=codewithrich&show_icons=true&theme=dark"/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrich&layout=compact&theme=dark" alt="codewithrich"/>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithrich&theme=dark" alt="codewithrich"/>
 

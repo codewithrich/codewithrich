@@ -12,15 +12,15 @@
 
 - 🌱 I’m currently learning **NEXT JS**
 
-- 👯 I’m looking to collaborate on **web development**
+- 👯 I’m looking to collaborate on **Web development**
 
 - 💬 Ask me about **MongoDB, REACT**
 
-- 📫 How to reach me **tempmailid30@gmail.com**
+- 📫 How to reach me **richardson12230@gmail.com**
 
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCng-oxmMa6tYqriGB5OJrFw)
+- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCng-oxmMa6tYqriGB5OJrFw)
   
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCng-oxmMa6tYqriGB5OJrFw)
+- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCng-oxmMa6tYqriGB5OJrFw)
 
 
 <hr>

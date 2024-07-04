@@ -40,7 +40,7 @@
 <br />
 
 # Tools Used
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,linux,xd,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,linux,xd,figma,postman)](https://skillicons.dev)
 <hr>
 
 ### 💻 Workspace Spec

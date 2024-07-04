@@ -18,6 +18,10 @@
 
 - 📫 How to reach me **tempmailid30@gmail.com**
 
+- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVXHYmFar7yArWvkcjxWXuQ)
+  
+- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVXHYmFar7yArWvkcjxWXuQ)
+
 
 <hr>
 

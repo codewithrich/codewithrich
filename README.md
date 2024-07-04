@@ -42,4 +42,6 @@
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=codewithrich&show_icons=true&theme=dracula"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrich&layout=compact&theme=dracula" alt="codewithrich"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithrich&theme=dark" alt="codewithrich"/></p>
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Richardson2003?theme=wtf&font=PT%20Sans%20Caption&ext=heatmap)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Richardson2003?theme=wtf&font=PT%20Sans%20Caption&ext=heatmap)](https://leetcode.com/Richardson2003)
+

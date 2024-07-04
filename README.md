@@ -32,7 +32,7 @@
 <br/>
 
 # Front-End
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,nextjs,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,reactjs,nextjs,figma)](https://skillicons.dev)
 <br/>
 
 # Back-End

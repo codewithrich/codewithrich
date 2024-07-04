@@ -6,14 +6,23 @@
 
 <p align="left"> 
 - 🔭 I’m currently working on **MERN STACK DEVELOPMENT**
+  
 - 🌱 I’m currently learning **NEXT JS**
+
 - 👯 I’m looking to collaborate on **Web development**
+  
 - 💬 Ask me about **MongoDB, REACT**
+  
 - 📫 How to reach me **richardson12230@gmail.com**
+  
 - 📌 Lives in **Chennai**
+  
 - ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCng-oxmMa6tYqriGB5OJrFw)
+  
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCng-oxmMa6tYqriGB5OJrFw)
+  
 - <img src="https://komarev.com/ghpvc/?username=codewithrich&label=Github%20Profile%20views&color=0e75b6&style=plastic" alt="codewithrich" /> </p>
+
 
 <hr>
 

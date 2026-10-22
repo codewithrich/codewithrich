@@ -1,4 +1,4 @@
-![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
+![MasterHead](https://goodwillcomputerschool.com.np/wp-content/uploads/2024/12/giphy.gif)
 <h1 align='center'><a id="typo" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto+mono&weight=600&size=25&duration=3000&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi%2C+I'm+Richardson.D;+I'm+a+UI%2FUX+Designer;I'm+a+MERN+stack+Developer";+"I'm+a+FREELANCER" alt="Typing SVG" /></a></h1>
 
 <br>
